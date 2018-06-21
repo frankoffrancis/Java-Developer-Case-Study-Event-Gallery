@@ -7,6 +7,7 @@ Event Prestige is an event container that can host all types events including We
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
+
 * Apache Tomcat server 9
 * Eclipse IDE
 * Java 8 SDK * JRE
@@ -14,8 +15,6 @@ These instructions will get you a copy of the project up and running on your loc
 * JUnit 4
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
 
 1.	Import event_gallery.sql to Oracle Databse
 2.	Edit db.properties file in the ep.event.resources package with your oracle database connection details
