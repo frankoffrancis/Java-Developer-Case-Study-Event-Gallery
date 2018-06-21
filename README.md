@@ -49,14 +49,14 @@ Export EventPrestigeApp as WAR file using Eclipse IDE, Upload to Tomcat Server 9
 * [Java](https://java.com/en/) - Programming language
 * [Spring mvc](https://spring.io/) - Spring framework 5.0
 * [JSP](http://www.oracle.com/technetwork/java/index-jsp-138231.html) - Java Server Pages
-* [JUNIT 4] - Test
+* JUNIT 4 - Test
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Foundation](https://foundation.zurb.com/) - The most advanced responsive front-end framework in the world.
 * [Fancybox 3](https://fancyapps.com/fancybox/3/) - JavaScript lightbox library
 * [DropzoneJS](http://www.dropzonejs.com/) - open source library that provides drag’n’drop file uploads with image previews.
 * [Datatables](https://datatables.net/) - Advanced tables, instantly
 * [JQuery Confirm](https://craftpip.github.io/jquery-confirm/) - alerts, confirms and dialogs in one.
-* [Layerslider] - Advanced image slider
+* Layerslider 6 - Advanced image slider
 * [Font Awesome](https://fontawesome.com/) - Free font icons
 * [JavaXT Image Class](http://www.javaxt.com/documentation/?jar=javaxt-core&package=javaxt.io&class=Image) - Image resize & cropping plugin
 * [Intimidatetime](http://trentrichardson.com) - JQuery datepicker
