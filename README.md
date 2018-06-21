@@ -19,7 +19,6 @@ These instructions will get you a copy of the project up and running on your loc
 1.	Import event_gallery.sql to Oracle Databse
 2.	Edit db.properties file in the ep.event.resources package with your oracle database connection details
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
