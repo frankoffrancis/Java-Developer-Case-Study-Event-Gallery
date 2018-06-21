@@ -42,6 +42,22 @@ Run each test classes as JUnit test
 
 Export EventPrestigeApp as WAR file using Eclipse IDE, Upload to Tomcat Server 9 with Oracle 12c Database
 
+## Known Bugs
+
+* Pages do not redirect to login page when session expires or does not exist 
+* No Spring security
+
+## Uncompleted
+
+* Event Wishlist front end and backend
+* User Profile front end (About us page) and backend
+* Contact us front end
+
+## Problems faced
+
+* Image upload, resizing and cropping
+* 
+
 ## Built With
 
 * [Java](https://java.com/en/) - Programming language
@@ -59,6 +75,23 @@ Export EventPrestigeApp as WAR file using Eclipse IDE, Upload to Tomcat Server 9
 * [JavaXT Image Class](http://www.javaxt.com/documentation/?jar=javaxt-core&package=javaxt.io&class=Image) - Image resize & cropping plugin
 * [Intimidatetime](http://trentrichardson.com) - JQuery datepicker
 * [Datepicker](https://fengyuanchen.github.io/datepicker) - JQuery datepicker plugin
+
+
+## User Stories
+
+1.	As a user I can sign up
+2.	As a user I can login with my email and password
+3.	As a user I can create a user profile page and add pictures
+4.	As a user I can update my user profile page
+5.	As a user I can add events
+6.	As a user I can update events
+7.	As a user I can delete events
+8.	As a user I can add galleries to events
+9.	As a user I can upload images to galleries
+10.	As an admin I can delete users (Not done next sprint)
+11.	As an admin I can block users (Not done next sprint)
+12.	As an admin I can view users pages (Not done next sprint)
+
 
 ## Authors
 
